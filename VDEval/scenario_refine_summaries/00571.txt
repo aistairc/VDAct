@@ -1,0 +1,3 @@
+The person is in the living room, where there is a desk on the floor next to him. He walks to the desk, then to the bathroom to grab a towel, and returns to the living room. There, he finds a mouse on the desk and grabs it. The computer is also in the living room. He uses the towel to wipe and then grabs the keyboard next to him. The person then walks to the sofa, interacts with a pillow on it, and returns to the bathroom once more to get the towel. 
+
+Afterwards, he walks to the kitchen, where he finds a stove, cereal, and milk. He grabs the cereal and milk and uses a frying pan. He pours the cereal and milk into the pan but keeps the stove off. Finally, he returns to the living room, sits on the sofa, which is facing both the computer and TV.

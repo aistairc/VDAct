@@ -1,0 +1,82 @@
+[
+  {
+    "id": "000220101",
+    "dial_id": "0002201",
+    "turn_num": 1,
+    "question": "What does the man use to clean the television?",
+    "ref_answer": "He uses a bath towel.",
+    "gen_answer": "He uses a spray bottle and a white cloth."
+  },
+  {
+    "id": "000220102",
+    "dial_id": "0002201",
+    "turn_num": 2,
+    "question": "Does he move any items when cleaning the TV?",
+    "ref_answer": "No, he does not.",
+    "gen_answer": "No, he doesn't move anything around the TV or on the TV stand before cleaning it. He simply wipes the screen and stand."
+  },
+  {
+    "id": "000220103",
+    "dial_id": "0002201",
+    "turn_num": 3,
+    "question": "Where did the man get the bath towel?",
+    "ref_answer": "The man went to the bathroom to get the towel to clean the TV.",
+    "gen_answer": "He retrieves the bath towel from the bedroom. You can briefly see him carrying it folded as he walks from the bedroom, through the dining area, to the TV."
+  },
+  {
+    "id": "000220104",
+    "dial_id": "0002201",
+    "turn_num": 4,
+    "question": "Did the man enter any other rooms other than the bathroom and the room with the TV?",
+    "ref_answer": "Yes, he did enter another room than those.",
+    "gen_answer": "Yes, he walks through a bedroom to get to the bathroom. He passes through the bedroom again on his way back to the living room with the TV."
+  },
+  {
+    "id": "000220105",
+    "dial_id": "0002201",
+    "turn_num": 5,
+    "question": "Did he use anything other than the bath towel to clean the TV?",
+    "ref_answer": "Nope, just the bath towel.",
+    "gen_answer": "It doesn't appear so. He picks up the towel in the bathroom and then goes directly to the TV to clean it.  Nothing else is visible in his hands."
+  },
+  {
+    "id": "000220106",
+    "dial_id": "0002201",
+    "turn_num": 6,
+    "question": "Did the man put the bath towel back in the bathroom?",
+    "ref_answer": "No, he didn't.",
+    "gen_answer": "No, he walks back into the main living area and then into the bedroom, where he leaves the towel on the bed."
+  },
+  {
+    "id": "000220107",
+    "dial_id": "0002201",
+    "turn_num": 7,
+    "question": "Does the man turn the TV on or off prior to cleaning it?",
+    "ref_answer": "No, the TV is off the entire time.",
+    "gen_answer": "He doesn't interact with the TV's power at all. He just cleans it."
+  },
+  {
+    "id": "000220108",
+    "dial_id": "0002201",
+    "turn_num": 8,
+    "question": "What was the man doing prior to falling?",
+    "ref_answer": "He was sitting on his bed.",
+    "gen_answer": "He wasn't shown falling in the video provided. He cleans the TV with a towel he retrieved from the bathroom, then he walks into the bedroom. The video ends there."
+  },
+  {
+    "id": "000220109",
+    "dial_id": "0002201",
+    "turn_num": 9,
+    "question": "Did he turn any lights on?",
+    "ref_answer": "No, the lights were already on.",
+    "gen_answer": "No, none of the lights are turned on or off during the video."
+  },
+  {
+    "id": "000220110",
+    "dial_id": "0002201",
+    "turn_num": 10,
+    "question": "Did he get up after falling?",
+    "ref_answer": "No, he remained on the floor.",
+    "gen_answer": "The video clip ends with him falling, so it doesn't show whether he got up or not."
+  }
+]

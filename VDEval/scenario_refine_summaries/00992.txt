@@ -1,0 +1,3 @@
+A person moves from the kitchen to the bedroom, where they access a closet containing pants and a shirt. They grab both, then go to the bed and place the clothing on it. They also retrieve a pile of clothes from the closet and place that on the bed as well. The person folds the pants, the pile of clothes, and the shirt before returning the folded items to the closet. 
+
+Afterwards, they head back to the kitchen, visit the fridge, open it, and take out alcohol, which they place on the kitchen table. They then grab wine from the fridge before closing it.

@@ -1,0 +1,3 @@
+The person is in the bedroom, where the desk is located on the floor. He walks to the desk, then to the kitchen and bathroom. In the bathroom, he grabs a towel from the counter and returns to the bedroom to wipe with it. Next, he walks to the kitchen, interacting with the kitchen table and fridge. He returns to the bedroom to grab a book from the bookshelf, reads it, and then retrieves notes from the bookshelf. He sits on a chair in the bedroom and writes on the notes. 
+
+Later, he goes to the bathroom, where he turns on a light switch, walks to the toilet, and grabs bar soap from the counter. He then interacts with the faucet, turning it on and off while soaking and rinsing the bar soap.

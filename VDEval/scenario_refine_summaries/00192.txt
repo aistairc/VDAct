@@ -1,0 +1,5 @@
+A person is in the kitchen where they interact with various items. The crackers are on a wall shelf facing the TV. After grabbing the crackers, they turn to a fridge, which is next to them, open it, and place the crackers inside before closing it again. The person then moves to a kitchen table, where wine is located, and puts the wine down after grabbing it.
+
+Next, the person goes to the living room, walks to a sofa facing a TV, and then back to the kitchen. They find alcohol and a water glass on the kitchen table. After grabbing the alcohol and water glass, they pour the alcohol and put it down before grabbing and eating a cupcake nearby. 
+
+The person then moves through the house, going to the bathroom and back to the bedroom before returning to the kitchen, where they interact with a light switch. After switching the light on, the light is now on.

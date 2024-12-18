@@ -1,0 +1,3 @@
+A person is in the kitchen where they interact with various items: they grab a cutlery knife from the counter, then walk to the sink to place it there. They then go to the kitchen table to grab a wineglass and pour wine into it. Next, they take a plate from the counter and place it on the kitchen table. The person then grabs a frying pan from the stove and a chicken from the counter, before walking to the sink. They encounter the fridge, then fall. 
+
+Afterward, the person moves to the living room, where they approach a desk to grab a book and read it. They also take paper from the desk, face it towards a computer, and then sit in a chair to write on the paper.
