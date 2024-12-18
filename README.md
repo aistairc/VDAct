@@ -1,5 +1,5 @@
 # VDAct
-This repository contains data for "A Video-grounded Dialogue Dataset and Metric for Event-driven Activities"
+This repository contains code and data for "A Video-grounded Dialogue Dataset and Metric for Event-driven Activities"
 
 ## Overview
 VDAct is a dataset for Video-Grounded Dialogue on Event-driven Activities.
@@ -19,7 +19,8 @@ Please see [code](https://github.com/aistairc/VDAct/blob/main/code)
 
 ## VDEval
 We propose a new metric for the visual dialogue task, VDEval: a session-based context evaluation metric that integrates dialogue session history and video content summaries extracted from the supplementary KGs of VDAct.
-![VDEval](https://github.com/aistairc/VDAct/blob/main/docs/eval-visual.png)
+
+<img src="https://github.com/aistairc/VDAct/blob/main/docs/eval-visual.png" width="40%">
 
 ### Usage
 1. `cd VDEval`
@@ -34,5 +35,5 @@ sh run_vdeval.sh
 python calc_score.py --model_output_file MODEL_OUTPUT_JSON --eval_output_file EVAL_OUTPUT_JSONL
 ```
 
-
 ## Citation
+To appear soon
