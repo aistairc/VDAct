@@ -4,7 +4,7 @@ jsonl_dir=gpt-4o-8f
 model_output_file=test-1.0-gpt-4o-2024-08-06-visual-8.json
 
 if [ ! -d $jsonl_dir ]; then
-  mkdir -p $jsonl_dir
+    mkdir -p $jsonl_dir
 fi
 
 for turn in `seq 1 15`;do
