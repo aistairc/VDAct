@@ -36,7 +36,14 @@ python calc_score.py --model_output_file MODEL_OUTPUT_JSON --eval_output_file EV
 ```
 
 ## Citation
-To appear soon
+```
+@article{imrattanatrai2025video,
+  title={A Video-grounded Dialogue Dataset and Metric for Event-driven Activities},
+  author={Imrattanatrai, Wiradee and Asada, Masaki and Hasegawa, Kimihiro and Cheng, Zhi-Qi and Fukuda, Ken and Mitamura, Teruko},
+  journal={arXiv preprint arXiv:2501.18324},
+  year={2025}
+}
+```
 
 ## Acknowledgment
 This paper is based on results obtained from: (1) a project, Programs for Bridging the gap between R&D and the IDeal society (society 5.0) and Generating Economic and social value (BRIDGE)/Practical Global Research in the AI × Robotics Services, implemented by the Cabinet Office, Government of Japan, and (2) a project, JPNP20006, commissioned by the New Energy and Industrial Technology Development Organization (NEDO).
